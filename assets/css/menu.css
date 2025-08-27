@@ -1,0 +1,287 @@
+.page-header {
+    position: relative;
+
+    background: #ffffff;
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.15), 0 2px 1px -5px rgba(0, 0, 0, 0.12),
+        0 1px 6px 0 rgba(0, 0, 0, 0.2);
+}
+
+.navbar {
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+    flex-basis: auto;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.vertical-logo {
+    font-size: 1.7rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #d93622;
+}
+
+.top-menu-wrapper {
+    color: #000000;
+}
+
+.top-menu-wrapper::before {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+    transition: background 0.5s;
+}
+
+
+.open-mobile-menu i {
+    color: #000000;
+}
+
+.top-menu {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    z-index: 2;
+    transform: translate3d(-100%, 0, 0);
+    transition: transform 0.4s cubic-bezier(0.23, 1, 0.32, 1);
+}
+
+.top-menu {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    overflow-y: auto;
+    padding: 0rem 0rem;
+    background: #E5E5E5;
+}
+
+.top-menu-wrapper.show-offcanvas::before {
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 1;
+}
+
+
+.top-menu-wrapper.show-offcanvas .panel,
+.top-menu-wrapper.show-offcanvas .top-menu {
+    transform: translate3d(0, 0, 0);
+    transition-duration: 0.7s;
+}
+
+
+.top-menu-wrapper.show-offcanvas .top-menu {
+    transition-delay: 0.2s;
+}
+
+
+.top-menu .top-link ul a {
+    display: inline-block;
+    font-size: 1rem;
+    font-weight: 400;
+    text-transform: uppercase;
+    transition: color 0.35s ease-out;
+}
+
+.top-menu .top-link ul {
+    padding-left: 0px;
+}
+
+.top-menu .top-link ul a.active {
+    color: #714698;
+    font-weight: 600;
+}
+
+.top-menu .top-link ul a:hover {
+    color: #000000;
+}
+
+.has-dropdown i {
+    display: none;
+}
+
+.sub-menu {
+    padding: 0.5rem 1.5rem 0 1.5rem;
+}
+
+.sub-menu a {
+    text-transform: capitalize;
+    font-size: 1rem;
+    font-weight: 400;
+    margin-top: 0rem;
+}
+
+
+
+.top-menu li+li {
+    margin-top: 1.3rem;
+}
+
+.top-menu>li:last-child {
+    margin-top: auto;
+}
+
+.mob-block {
+    text-align: center;
+    float: left;
+
+    background: #9E6ACE;
+    position: relative;
+
+}
+
+.mob-block .logo {
+    font-size: 20px;
+    font-weight: 600;
+    padding-top: 27px;
+    color: #ffff;
+
+
+}
+
+.mob-block i {
+    color: #000000;
+}
+
+.page-header .navbar {
+    background: #000000;
+}
+
+.open-mobile-menu {
+    position: absolute;
+    right: 10px;
+}
+
+.mob-block i {
+    background: #ffffff;
+    color: #9E6ACE;
+    border-radius: 50%;
+    padding: 5px 8px;
+    position: absolute;
+    right: 10px;
+    top: 28px;
+}
+
+.top-menu .top-link {
+    background: #ffff;
+    border-radius: 10px;
+    padding-top: 22px;
+}
+
+.top-menu .top-link ul li a {
+    padding: 10px 20px;
+}
+
+.top-menu .link-main {
+    padding: 10px;
+}
+
+.gray-line {
+    position: relative;
+}
+
+.gray-line::after {
+    position: absolute;
+    content: "";
+    background: #F0F0F0;
+    width: 100%;
+    height: 2px;
+    left: 0;
+    bottom: -10px;
+}
+
+.bottom-link {
+    background: #fff;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.bottom-link ul {
+    padding-left: 0px;
+}
+
+.bottom-link .card-header {
+    background-color: #fff;
+    border-radius: 10px;
+    border-bottom: 1px solid #F0F0F0;
+    padding: 0px;
+}
+
+.bottom-link .card {
+    border: 0;
+}
+
+.bottom-link .btn:focus {
+    box-shadow: none;
+}
+
+.bottom-link .btn-link {
+    text-decoration: none;
+}
+
+.bottom-link .btn-link.focus,
+.bottom-link .btn-link:hover {
+    text-decoration: none;
+}
+
+.bottom-link .btn-block {
+    justify-content: flex-start;
+    align-items: center;
+    color: #424242;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+.bottom-link .btn-block:not(.collapsed) {
+    font-weight: 600;
+    color: #714698;
+}
+
+.bottom-link .btn-block i {
+    margin-right: 10px;
+    font-size: 30px;
+}
+
+.bottom-link .card-body ul {
+    padding-left: 30px;
+}
+
+.bottom-link .card-header:last-child {
+    margin-bottom: 10px;
+}
+
+.bottom-link .card:last-child .card-body ul {
+    padding-left: 26px;
+
+}
+
+.bottom-link .card {
+    border-radius: 10px;
+}
+
+.bottom-link .card:last-child .card-body ul li {
+    border-bottom: 1px solid #F0F0F0;
+    padding-bottom: 16px;
+}
+
+.bottom-link .card .card-header .btn-link {
+    position: relative;
+
+}
+
+.bottom-link .card .card-header .btn-link .fa-angle-down:before {
+    position: absolute;
+    right: 20px;
+    top: 10px;
+    font-size: 20px;
+}
+
+.link-main .top-link ul li a.active {
+    font-weight: 600;
+    color: #9E6ACE;
+}

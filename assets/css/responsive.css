@@ -1,0 +1,1026 @@
+@media screen and (min-width:1200px) and (max-width:1600px){
+    .one-place-graphics::before{
+        display:none;
+    }
+    .price-card-main .hosting-package{
+            padding: 40px 34px 20px;
+    }
+    .saop-content{
+        position: relative;
+        z-index: 999;
+    }
+    .mc-right-block{
+        position: relative;
+        z-index: 999;
+    }
+    .mobile-computer::before{
+        z-index: -1;
+    }
+    .right-banner-img{
+        position: relative;
+        z-index: 999;
+    }
+    .service-graphic:after{
+        right: 0;
+        z-index: 999;
+    }
+    .cs-cloud-services{
+        position: relative;
+        z-index: 999;
+    }
+    .recent-project-graphic{
+        position: relative;
+        z-index: 999;
+    }
+    .recent-projects:after{
+        z-index: -1;
+    }
+    .ec-banner-img{
+        position: relative;
+        z-index: 999;
+       
+    }
+    .wp-left-block{
+            position: relative;
+            z-index: 999;
+    }
+    .pricing .price-card-main{
+            width: 328px;
+    }
+    .pricing:after{
+        display: none;
+    }
+    .appointment-content-body{
+        position: relative;
+        z-index: 999;
+    }
+    .price-card-main .psm-card-tile::after{
+        top: -17.3px;
+        right: 11px;
+    }.price-card-main .psm-card-tile::before{
+        top: -23.8px;
+        left: 20px;
+    }
+    .price-card-main:hover .psm-card-tile::before{
+top: -23.8px;
+left: 20px;
+    }
+    .price-card-main:hover .psm-card-tile::after{
+top: -17.3px;
+right: 11px;
+    }
+    .solution-at-one-place:after{
+                    bottom: -184px;
+                background-size: 100%;
+                z-index: 999;
+    }
+    .service.solution-at-one-place:after{
+        bottom: -151px;
+    }
+    .services-main .solution-at-one-place{
+            padding: 20px 0px 174px;
+    }
+.solution-at-one-place{
+        padding: 10px 0px 117px;
+}
+.service-banner-bg{
+    position: relative;
+    z-index: 999;
+}
+.career.solution-at-one-place:after
+{
+    bottom: -144px; 
+}
+.service-left-block{
+    position: relative;
+    z-index: 999;
+}
+.career-row{
+position:relative;
+}
+.Career.position-relative{
+padding-top: 90px;
+}
+.career .saop-content:before{
+    bottom: -74px
+}
+.item.slick-slide.slick-current.slick-active .testimonial-slider-body{
+        width: 355px;
+}
+.load-more-button a{
+    margin-left: 0px;
+}
+.company-all-work .tab-content .mobile-app{
+    margin-top: -95px;
+}
+.portfolio.solution-at-one-place:after{
+    bottom: -144px;
+}
+.contact-us .service-graphic::before{
+    z-index: -1;
+}
+.about-container_heading::after{
+    top: 0px;
+}
+.services-main section{
+    padding: 0px 0px 0px;
+}
+.networking-graphic::after{
+    z-index: -1;
+}
+.appointment .appointment-graphic::before{
+        height: 614px;top: 100px;
+}
+.appointment-content-body .call-back{
+    margin-top: 15px;
+}
+.company-contact-details ul li:first-child .cd-title-icon {
+    width: 280px;
+}
+}
+@media screen and (max-width:1199px){
+    .Career-graphic::after ,.Career-graphic::before{
+        z-index: -1;
+    }
+    .appointment .appointment-graphic::before{
+            top: 130px;z-index: -1;
+    }
+    .ec-banner-img{
+        background-size: contain;
+        z-index: 100;
+        position: relative;
+    }
+    .cloud-hosting-banner-img{
+            background-size: contain;
+            z-index: 100;
+            position: relative;
+    }
+    .pricing .row{
+        text-align: center;
+    }
+    .project-summery-title{
+        padding-top: 15px;
+    }
+    .website-project-list .project-bg{
+            margin-top: -160px;
+            background-size: contain;
+    }
+    .website-project-list:hover .project-bg{
+        background-size:contain ;
+    }
+    .website-project-list .compay-details{
+         
+            bottom: 66px;
+    }
+    .mc-right-block{
+            background-size: contain;
+    }
+    .service-graphic:after{
+        display: none;
+    }
+    /* .solution-at-one-place:after{
+            bottom: -162px;
+    } */
+    .solution-at-one-place{
+        padding: 57px 0px 110px
+    }
+   
+    .mobile-app-graphic::before,.website-graphic::before ,.mobile-app-graphic::after,.website-graphic::after,.hosting-graphic::before,.hosting-graphic::after,.office-graphic::before,.networking-graphic::after{
+        z-index: -1;
+    }
+    .service-banner-bg{
+        background-size: contain;
+    }
+    .mobile-app .service-banner-bg .img-fluid ,.office .service-banner-bg .img-fluid, .networking .service-banner-bg .img-fluid ,.e-commerce .service-banner-bg .img-fluid{
+        max-width: 50%;
+    }
+    .hosting .service-banner-bg .img-fluid{
+        max-width: 63%;
+    }
+    .one-place-graphics::before{
+        display: none;
+    }
+    .solution-at-one-place:after{
+            height: 241px;
+    }
+    .pricing .price-card-main{
+        width: 270px;
+    }
+    .price-card-main .hosting-package .hp-triangle:before{
+        border-left: 13px solid transparent;
+        border-right: 13px solid #C29513;
+        border-bottom: 10px solid transparent;
+        top: -17.8px;
+        left: -8px;
+    }
+    .price-card-main .hosting-package .hp-triangle:after{
+        border-left: 16px solid transparent;
+        border-right: 10px solid #C29513;
+        border-bottom: 12px solid transparent;
+        right: -16px;
+        top: -12px;
+    }
+    .price-card-main .hosting-package .bottom-hp-triangle:before{
+            border-left: 15px solid transparent;
+            border-right: 10px solid #C29513;
+            border-bottom: 11px solid transparent;
+            bottom: -10.8px;
+    }
+    .price-card-main .hosting-package .bottom-hp-triangle:after{
+        border-left: 15px solid transparent;
+        border-right: 11px solid #C29513;
+        border-bottom: 10px solid transparent;
+        bottom: -17.8px
+    }
+    .price-card-main:hover .hosting-package .hp-triangle:before{
+            border-left: 12px solid transparent;
+            border-right: 12px solid #4C19A6;
+            border-bottom: 10px solid transparent;
+            top: -16.8px;
+            left: -8px;
+    }
+    .price-card-main:hover .hosting-package .bottom-hp-triangle:before{
+    border-left: 15px solid transparent;
+    border-right: 11px solid #4C19A6;
+    border-bottom: 10px solid transparent;
+    bottom: -9.8px;
+    left: -16px;
+    }
+    .price-card-main:hover .hosting-package .bottom-hp-triangle:after{
+        border-left: 15px solid transparent;
+        border-right: 11px solid #4C19A6;
+        border-bottom: 10px solid transparent;
+        bottom: -17.8px
+    }
+    .price-card-main:hover .hosting-package .hp-triangle:after{
+        border-left: 15px solid transparent;
+        border-right: 11px solid #4C19A6;
+        border-bottom: 12px solid transparent;
+        right: -16px;
+        top: -12px;
+    }
+    .psm-card-tile h6{
+        width: 180px;
+        padding: 10px 0px;
+    }
+    .price-card-main .psm-card-tile::before{
+        top: -24.8px;
+        left: 21px;
+        
+    }
+    .price-card-main:hover .psm-card-tile::before{
+        top: -24.8px;
+        left: 21px;
+        border-bottom: 16px solid transparent;
+    }
+    .price-card-main:hover .psm-card-tile::after{
+                border-bottom: 17px solid transparent;
+                top: -18.3px;
+                right: 12px;
+    }
+    .price-card-main .psm-card-tile::after{
+        border-bottom: 17px solid transparent;
+        top: -18.3px;
+        right: 12px;
+            border-right: 16px solid #C29513;
+    }
+    .news-slider .next.slick-arrow,.news-slider .prev.slick-arrow{
+        display: none;
+    }
+    .testimonial-slider .prev.slick-arrow{
+            left: 52%;
+    }
+    .testimonial-slider .next.slick-arrow{
+        left: 60%;
+    }
+    .price-card-main .hosting-package{
+        padding: 40px 23px 20px;
+    }
+    .pricing .price-card-main{
+        position: relative;
+        z-index: 100;
+    }
+    .news-slider .next.slick-arrow{
+            right: -25px;
+    }
+    .news-slider .prev.slick-arrow{
+        left: -25px;
+    }
+    .wp-left-block{
+        position: relative;
+        z-index: 99;
+    }
+    .solution-at-one-place .col-lg-5{
+        align-self: end;
+    }
+    .right-banner-img img{
+        position: relative;
+        z-index: 99;
+        padding-bottom: 10px;
+    }
+    .center-block-title{
+        margin-top: 30px;
+    }
+}
+@media screen and (min-width:1080px) and (max-width:1199px){
+    .portfolio.solution-at-one-place:after {
+        bottom: -65px;
+    }
+    
+}
+@media screen and (max-width:991px) {
+
+    .news-slider .next.slick-arrow ,.news-slider .prev.slick-arrow{
+        display: none !important;
+    }
+    .company-all-work .tab-content .florist-bannder-bg{
+        background: url(../images/florist-banner-bg-sm.svg) no-repeat;
+            width: 100%;
+            height: 100%;
+            background-size: cover;
+    }
+    .company-all-work .tab-content .mobile-app{
+        text-align: center;
+            margin-top: -100px;
+    }
+    .company-all-work .tab-content .mobile-app img{
+            padding-left: 0px;
+    }
+    .mobile-app-project-summery .title-content {
+        padding: 20px 30px 100px 0px;
+    }
+    .mobile-app-project-summery {
+        margin-top: 30px;
+        padding: 0px 40px;
+    }   
+   
+.pricing .price-card-main{
+    width: 385px;
+}
+.price-card-main .psm-card-tile::before{
+    left: 79px;
+    top: -23.8px
+}
+.price-card-main:hover .psm-card-tile::before{
+    left: 79px;
+}
+.price-card-main .hosting-package .hp-triangle:before{
+        border-right: 13px solid #C29513;
+        border-bottom: 13px solid transparent;
+        top: -18.8px;
+        left: -6px;
+}
+.price-card-main:hover .hosting-package .hp-triangle:before{
+     border-right: 13px solid #4C19A6;
+        border-bottom: 13px solid transparent;
+        top: -18.8px;
+        left: -6px;
+}
+.price-card-main .hosting-package .hp-triangle:after{
+        border-right: 13px solid #C29513;
+        border-bottom: 13px solid transparent;
+        right: -16px;
+        top: -13px;
+}
+.price-card-main:hover .hosting-package .hp-triangle:after{
+     border-right: 13px solid #4C19A6;
+        border-bottom: 13px solid transparent;
+        right: -15px;
+        top: -13px;
+}
+.price-card-main .hosting-package .bottom-hp-triangle:before{
+    border-left: 15px solid transparent;
+    border-right: 13px solid #C29513;
+    border-bottom: 12px solid transparent;
+    bottom: -11.8px;
+}
+.price-card-main:hover .hosting-package .bottom-hp-triangle:before{
+    border-left: 15px solid transparent;
+    border-right: 13px solid #4C19A6;
+    border-bottom: 12px solid transparent;
+    bottom: -11.8px;
+    left: -15px;
+}
+.price-card-main .hosting-package .bottom-hp-triangle:after{
+        border-left: 15px solid transparent;
+        border-right: 14px solid #C29513;
+        border-bottom: 13px solid transparent;
+        bottom: -19.8px;right: -8px;
+}
+.price-card-main:hover .hosting-package .bottom-hp-triangle:after{
+    border-left: 15px solid transparent;
+    border-right: 14px solid #4C19A6;
+    border-bottom: 13px solid transparent;
+    bottom: -19.8px;
+    right: -8px;
+}
+.price-card-main .psm-card-tile::after{
+        right: 70px;
+}
+.price-card-main:hover .psm-card-tile::after{
+    right: 70px;
+}
+    .customer-slide .slick-dots li{
+            display: inline-block;
+            padding: 0px 5px;
+    }
+    .navbar-nav li.nav-item {
+        padding: 7px 0px;
+    }
+    .navbar-nav {
+        margin-top: 15px;
+    }
+    .recent-projects:after{
+        z-index: -1;
+    }
+    .services-graphic{
+        display: none;
+    }
+    .recent-projects:before{
+      display: none;
+    }
+    .testimonial-slider.slick-slider .slick-dots li.slick-active button {
+        width: 25px;
+        height: 11px;
+        background: #57298B;
+        border-radius: 50px;
+    }
+    .customer-slider.slick-slider .slick-dots li.slick-active button {
+        width: 25px;
+        height: 11px;
+        background: #57298B;
+        border-radius: 50px;
+    }
+    .customer-slider.slick-slider .slick-dots {
+        text-align: center;
+        list-style: none;
+        margin-top: 30px;
+    }
+    .testimonial-slider.slick-slider .slick-dots{
+        text-align: center;
+        list-style: none;margin-top: 30px;
+    }
+    .testimonial-slider.slick-slider .slick-dots li {
+        display: inline-block;
+        padding: 0px 5px;  
+    }
+    .customer-slider.slick-slider .slick-dots li {
+        display: inline-block;
+        padding: 0px 5px;  
+    }
+    .join-customer{
+        padding-bottom: 0px;
+    }
+    .What-we-provide{
+        padding-top: 0px;
+    }
+    .testimonial-slider.slick-slider .slick-dots li button {
+        width: 11px;
+        height: 11px;
+        background: rgba(87, 41, 139, 0.25);
+        border-radius: 50%;
+         text-indent: -9999px;
+         border: none;
+    }
+    .customer-slider.slick-slider .slick-dots li button {
+        width: 11px;
+        height: 11px;
+        background: rgba(87, 41, 139, 0.25);
+        border-radius: 50%;
+         text-indent: -9999px;
+         border: none;
+    }
+    .testimonial-slider .prev.slick-arrow,
+    .testimonial-slider .next.slick-arrow {
+        display: none !important;
+    }
+    .item.slick-slide.slick-current.slick-active .testimonial-slider-body{
+        width: 100%;
+    }
+    .header.page-header .navbar-expand-lg .navbar-nav .nav-link.active:before{
+        display: none;
+    }
+    .customer-slider .item-img-1{
+            width: 100%;
+            height: 273px;
+            background-size: contain;
+    }
+    .company-branding-rtl{
+        flex-direction: column-reverse;
+    }
+    .cloud-services-rtl{
+        flex-direction: column-reverse;
+    }
+    .integrated-solution-rtl{
+        flex-direction: column-reverse;
+    }
+.website-graphic::before ,.mobile-app-graphic::after ,.hosting-graphic::before,.hosting-graphic::after,.office-graphic::before,.networking-graphic::after,.mobile-app-graphic::before{
+    z-index: -1;
+}
+.services-main .solution-at-one-place{
+        padding: 0px 0px 95px
+}
+.one-place-graphics:after{
+    display: none;
+}
+
+
+    .customer-slider .item-img{
+        width: 100%;
+        height: 273px;background-size: contain;
+    }
+    .customer-slider .item-img-2{
+    width: 100%;
+    height: 273px;background-size: contain;
+    }
+   
+    .recent-project-slider .slick-slide .item{
+        margin: 30px;
+    }
+    .customer-slider .next.slick-arrow{
+        display: none;
+    }
+    .customer-slider .prev.slick-arrow{
+        display: none;
+    }
+    .one-place-graphics::before{
+        display: none;
+    }
+    .saop-content{
+        position: relative;
+        z-index: 999;
+    }
+    .cs-cloud-services{
+        position: relative;
+        z-index: 999;
+    }
+    .mc-right-block{
+        margin-top: 30px;
+    }
+    section{
+        padding: 0px 10px 60px;
+    }
+    .wp-left-block{
+        position: relative;
+        z-index: 999;
+        padding-left: 0;
+        padding-top: 0;
+    }
+    .wp-right-block{
+        position: relative;
+        z-index: 999;
+    }
+    .hcs-left-block h4{
+        padding-bottom: 0;
+    }
+    .hcs-left-block>p{
+        margin-top: 2rem !important;
+    }
+    .cloud-hosting-banner-img{
+            background-position: center center;
+            text-align: center;
+            margin-top: 50px;
+    }
+    .e-commerce-rtl{
+    flex-direction: column-reverse;
+    }
+    .ec-banner-img{
+        background-size: contain;
+        position: relative;margin-top: 40px;
+    }
+    .e-commerce-right-block{
+        position: relative;
+    }
+    .ec-banner-img img{
+        object-fit: contain ;
+    }
+    .e-commerce{
+        padding-top: 50px;
+    }
+    .pricing .col-lg-4{
+        display: flex;
+        justify-content: center;
+        margin-bottom: 50px;
+    }
+    .appointment-content-body{
+        position: relative;
+        margin-bottom: 50px;
+    }
+    .career-row {
+        position: relative;
+    }
+    .career .saop-content:before{
+        right: 0;
+    }
+    .Career-graphic2::after{
+        display: none;
+    }
+    .solution-at-one-place:after{
+        background-size: contain;
+            height: 204px;
+    }
+    .solution-at-one-place{
+        padding: 60px 0px 0px;
+    }
+    .career-row .minimum-experience{
+        margin-top: 10px !important;
+    }
+    .website-project-list .project-bg{
+        background-size: 100% 100%;
+    }
+    .website-project-list{
+        text-align: center;
+    }
+    .website-project-list .compay-details{
+        text-align: left;
+        left: 120px;    
+    }
+    .website-project-list .compay-details{
+        width: 66%;
+    }
+    .website-project-list:hover .project-bg {
+        background-size: 100% 100%;
+    }
+    .load-more-button a{
+        margin-left: 0px;
+    }
+    .website-project-list:hover .project-bg .project-name p{
+         font-size: 20px;
+    }
+    
+}
+@media screen and (max-width:767px) {
+        .home-timeline__number{
+                left: -64px;
+        }
+        .center-block-title{
+            position: relative;
+            z-index: 999;
+        }
+        .about-container_heading::after{
+                right: 28px;
+        }
+        .home-timeline__item {
+            position: relative;
+            z-index: 999;
+        }
+        .quick-response .scb-content-body .scb-img{
+            margin-left: auto;
+            margin-right: auto;
+        }
+        .website-project-list .compay-details {
+            left: 35px;
+        }
+        .website-project-list .compay-details {
+            width: 87%;
+        }
+        .testimonial-slider .item.slick-current .tesimonial--img img{
+                top: -12px;
+                right: 16px;
+        }
+        .price-card-main .hosting-package .hp-triangle:before {
+            border-right: 10px solid #C29513;
+            border-bottom: 11px solid transparent;
+            top: -16.8px;
+            left: -7px;
+        }
+        .price-card-main .hosting-package .hp-triangle:after {
+            border-right: 11px solid #C29513;
+            border-bottom: 11px solid transparent;
+        right: -16px;
+            top: -11px;
+        }
+        .website-project-list{
+            margin-bottom: 0;
+        }
+        .price-card-main .hosting-package .bottom-hp-triangle:before {
+            border-left: 12px solid transparent;
+            border-right: 11px solid #C29513;
+            border-bottom: 10px solid transparent;
+            bottom: -9.8px;left: -14px;
+        }
+        .price-card-main .hosting-package .bottom-hp-triangle:after {
+            border-left: 11px solid transparent;
+            border-right: 10px solid #C29513;
+            border-bottom: 11px solid transparent;
+            bottom: -16.8px;
+            right: -7px;
+        }
+        .price-card-main:hover .hosting-package .hp-triangle:before{
+                border-right: 10px solid #4C19A6;
+                border-bottom: 11px solid transparent;
+                top: -16.8px;
+                left: -7px;
+        }
+        .price-card-main:hover .hosting-package .hp-triangle:after{
+            border-right: 11px solid #4C19A6;
+            border-bottom: 11px solid transparent;
+        right: -16px;
+            top: -11px;
+        }
+        .price-card-main:hover .hosting-package .bottom-hp-triangle:before{
+            border-left: 12px solid transparent;
+            border-right: 11px solid #4C19A6;
+            border-bottom: 10px solid transparent;
+            bottom: -9.8px;
+            left: -14px;
+        }
+        .price-card-main:hover .hosting-package .bottom-hp-triangle:after{
+                border-left: 11px solid transparent;
+                border-right: 10px solid #4C19A6;
+                border-bottom: 11px solid transparent;
+                bottom: -16.8px;
+                right: -7px;
+        }
+        .price-card-main .hosting-package{
+                padding: 40px 23px 20px;
+        }
+        .price-card-main .psm-card-tile::before {
+            left: 21px;
+            top: -24.8px;
+        }
+        .price-card-main .psm-card-tile::after {
+            right: 13px;
+        }
+        .price-card-main:hover .psm-card-tile::after {
+            right: 13px;
+        }
+        .price-card-main:hover .psm-card-tile::before {
+            left: 21px;
+            top: -24.8px;
+        }
+        .company-all-work .tab-content .florist-bannder-bg{
+            background: url(../images/florist-banner-bg-mobile.svg) no-repeat;width: 100%;
+            height: 100%;
+            background-size: 100% 100%;
+        }
+        .pricing .price-card-main {
+            width: 270px;
+        }
+        .price-card-main .hosting-package{
+                padding: 40px 22px 20px;
+        }
+        .testimonial-slider .slick-current .tesimonial--img img {
+            width: 110px;
+            height: 110px;
+        }
+        .mobile-app-project-summery {
+            margin-top: 0px;
+            padding: 0px 22px;
+        }
+        .mobile-app-project-summery .title-content {
+            padding: 0px 30px 100px 0px;
+        }
+        .website-project-list .project-name p {
+            font-size: 20px;
+        }
+        .customer-slider .item-content{
+                margin-left: auto;
+                margin-right: auto;
+        }
+        .price-card-main .hosting-package .hp-title p{
+            font-size: 14px;
+            margin-bottom: 10px;
+        }
+        .join-customer{
+            padding-bottom: 0;
+        }
+        .What-we-provide{
+            padding-top: 0;
+        }
+        .price-card-main .hosting-package p{
+            font-size: 13px;
+            margin-bottom: 0;
+        }
+        .price-card-main .hosting-package p svg{
+                margin-right: 15px;
+        }
+        .highly-trained-team{
+                margin-top: 20px;
+        }
+        .management-dashboard-body {
+            margin-top: 20px;
+        }
+        .services-graphic{
+            display: none;
+        }       
+        .customer-slider .item-img ,.cloud-hosting-banner-img,.customer-slider .item-img-2,.customer-slider .item-img-1{
+            background-size: contain;
+        }
+        .What-we-provide{
+            margin-top: 0;
+        }
+        .quick-response ,.highly-trained-team ,.management-dashboard-body ,.service-card-body{
+            width: 100%;
+            height: 100%;
+        }
+        
+        .testimonial-slider.slick-slider .slick-dots li{
+            display: inline-block;
+            padding: 0px 5px;
+
+        }
+        .testimonial-slider.slick-slider .slick-dots li button{
+            width: 11px;
+            height: 11px;
+            background: rgba(87, 41, 139, 0.25);
+            border-radius: 50%;
+        }
+        .testimonial-slider .slick-dots{
+            text-align: center;
+        }
+        .testimonial-slider.slick-slider .slick-dots li.slick-active button{
+                width: 25px;
+                height: 11px;
+                background: #57298B;
+                border-radius: 50px;
+        }
+        .item.slick-slide.slick-current.slick-active .testimonial-slider-body{
+            width:100%;
+        }
+        .recent-project-slider{
+            position: relative;
+            z-index: 199;
+        }
+        .testimonial-slider .item.slick-current .tesimonial--img img{
+            margin-right: -20px
+        }
+        .testimonial-slider .item{
+            padding-top: 0;
+        }
+        .recent-project-img{
+            width: 100%;
+        }
+        .testimonial-slider .prev.slick-arrow,.testimonial-slider .next.slick-arrow{
+            display: none !important;
+        }
+        .cs-cloud-services{
+            width: 100%;
+        }
+        .hosting-cloud-services{
+            padding-bottom: 0px;
+        }
+        .wp-right-block {
+            padding-top: 20px;
+        }
+        .mobile-computer-left-block{
+            margin-top: 20px;
+        }
+        h4{
+            font-size: 30px;
+        }
+        .recent-projects:before{
+            display: none;
+        }
+        .scb-img-1,.scb-content-body .scb-img,.quick-response .scb-content-body .scb-img,.scb-content-body .scb-img{
+            width: 120px;
+        }
+        .appointment-content-body .heading h4{
+            font-size: 40px;
+        }
+        .appointment .appointment-graphic:after{
+            display: none;
+        }
+        .appointment .appointment-banner{
+                height: 348px;
+        }
+        .mc-right-block{
+            background-size:contain ;
+        }
+        .mc-right-block .img-fluid{
+                max-width: 60%;
+        }
+        .join-customer-heading p{
+                padding: 40px 0px;
+        }
+        .solution-at-one-place.portfolio {
+            padding: 0px 0px 25px;
+        }
+        .portfolio.solution-at-one-place:after {
+            bottom: -75px;
+        }
+        .company-all-work .nav-tabs li{
+                padding: 0px 9px;
+        }
+        .navbar-nav{
+            margin-top: 15px;
+        }.solution-at-one-place{
+                padding: 0px 0px 0px;
+        }
+        .saop-content p{
+                padding: 0px 0px 5px;
+        }
+        .navbar-nav li.nav-item{
+            padding: 7px 0px;
+        }
+        .company-contact-details ul li .cd-title-icon{
+            font-size: 15px;
+        }
+        .company-contact-details ul li:first-child p:last-child ,.company-contact-details ul li a{
+            font-size: 15px;
+        }
+        .footer .social-links ul li a{
+            margin: 0px 7px; 
+        }
+        .service-banner-bg{
+                height: 100%;
+        }
+        .solution-at-one-place:after{
+                bottom: -75px
+        }
+        .Career{
+            padding-top: 30px;
+        }
+        .solution-at-one-place:after {
+            height: 136px;
+        }
+        .website-project-list .project-bg{
+                margin-top: -168px;
+                background-size: 100% 100%;
+        }
+        .website-project-list .compay-details{
+                bottom: 64px;
+        }
+        .website-project-list .compay-details p{
+            margin-bottom: 5px  ;
+        }
+        .website-project-list:hover .project-bg{
+            margin-top: -168px;
+            background-size: 100% 100%;
+        }
+        .company-all-work .tab-content .mobile-app img{
+            padding: 15px;
+        }
+        .load-more-button a{
+            margin-left: 0;
+        }
+        .load-more-button{
+            margin-top: 0;
+        }
+        /* .mobile-app-project-summery{
+            margin-top: 30px;
+            background: #6C4AED;
+        } */
+        .mobile-app-project-summery .project-summery-title h6 {
+            font-size: 20px;
+        }
+        /* .company-all-work .tab-content .florist-bannder-bg{
+            
+        } */
+
+    .footer{
+        background-size: cover;
+    }
+    .footer .social-links ul{
+        padding-left: 0;
+    }
+    
+   
+}
+@media screen and (min-width:730px) and (max-width:767px){
+.solution-at-one-place:after {
+    bottom: -20px;
+}   
+.portfolio.solution-at-one-place:after{
+    bottom: -20px;
+}
+}
+@media screen and (min-width:580px) and (max-width:730px){
+    .solution-at-one-place:after {
+        bottom: -38px;
+    }
+    .portfolio.solution-at-one-place:after{
+        bottom: -38px;
+    }
+}
+@media screen and (min-width:460px) and (max-width:580px){
+    .solution-at-one-place:after {
+        bottom: -59px;
+    }
+    .portfolio.solution-at-one-place:after{
+        bottom: -59px;
+    }
+}
+@media screen and (min-width:360px)  and (max-width:460px){
+.solution-at-one-place:after {
+    height: 136px;
+}
+.portfolio.solution-at-one-place:after{
+    height: 136px;
+}
+.about-container_heading::after{
+    display: none;
+}
+.home-timeline__item>.container>.row:first-child .home-timeline__photo-container:after{
+    display: none;
+}
+    
+}
+@media screen and (min-width:360px) and (max-width:412px) {
+    .website-project-list .compay-details {
+        width: 80%;
+    }
+    .website-project-list .compay-details {
+        bottom: 74px;
+    }
+}
